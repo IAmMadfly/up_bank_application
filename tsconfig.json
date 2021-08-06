@@ -1,0 +1,17 @@
+{
+    "compileOnSave": false,
+    "compilerOptions": {
+        "target": "es2015",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "pretty": true,
+        "newLine": "LF",
+        "allowSyntheticDefaultImports": true,
+        "strict": true,
+        "sourceMap": true,
+        "skipLibCheck": true,
+        "allowJs": true,
+        "outDir": "dist/node"
+    },
+    "include": ["./src/node/**/*"]
+}
